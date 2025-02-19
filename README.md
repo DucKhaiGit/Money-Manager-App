@@ -8,9 +8,12 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Plugins installed:
+Bloc 4.0.2 felangel
+Dart 
+Dart Data Class 0.2.0 Andras Ferenczi
+Flutter
+Statistic
+
+In case that you don't have an mobile device on android studio, you can run project with window desktop but ensure that you installed Visual Studio with package Desktop Development with C++
